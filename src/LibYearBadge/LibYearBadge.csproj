@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="1.1.3" />
     <!--<PackageReference Include="OctoKit" Version="0.24.0" />-->
     <PackageReference Include="libyear" Version="1.0.1" />
   </ItemGroup>
